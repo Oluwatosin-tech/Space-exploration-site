@@ -1,0 +1,33 @@
+body{
+    color: #679BB8;
+    text-align: center;
+    font-family: "Orbitron", serif;
+    margin: 0px;
+}
+
+.btn{
+    padding: 6px 12px 6px 12px;
+    background: white;
+    border: none;
+    font-family: inherit;
+    color: #679BB8;
+    font-weight: bold;
+}
+
+#spaceX-logo{
+    width: 100px;
+}
+
+#hero-section{
+    background-image: url("image/galaxy.jpg");
+    background-size: contain;
+    padding: 10px 0px 60px 0px;
+}
+
+.underline{
+    border-bottom: 4px solid white;
+}
+
+#heading{
+    text-shadow: 0px 0px 4px black;
+}
